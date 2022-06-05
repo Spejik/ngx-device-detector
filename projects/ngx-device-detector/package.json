@@ -1,15 +1,18 @@
 {
-  "name": "ngx-device-detector",
+  "name": "@spejik/ngx-device-detector",
   "version": "3.1.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoderLabs/ngx-device-detector.git"
+    "url": "https://github.com/spejik/ngx-device-detector.git"
   },
   "author": {
     "name": "Muhammad Ahsan Ayaz",
     "email": "ahsan.ubitian@gmail.com"
   },
+  "contributors": [
+    "spejik"
+  ],
   "keywords": [
     "angular",
     "device",
@@ -17,17 +20,14 @@
     "device detection",
     "ngx-device-detector",
     "angular device detector",
-    "angular5",
-    "angular6",
-    "angular7",
-    "angular8"
+    "angular14"
   ],
   "bugs": {
     "url": "https://github.com/AhsanAyaz/ngx-device-detector.git/issues"
   },
   "peerDependencies": {
-    "@angular/common": ">=7.0.0 <=14.0.0 || ^14.0.0",
-    "@angular/core": ">=7.0.0 <=14.0.0 || ^14.0.0"
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"

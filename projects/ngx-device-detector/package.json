@@ -1,6 +1,6 @@
 {
   "name": "@spejik/ngx-device-detector",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,6 +13,9 @@
   "contributors": [
     "spejik"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@spejik"
+  },
   "keywords": [
     "angular",
     "device",
